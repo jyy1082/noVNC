@@ -1,5 +1,7 @@
 http://192.168.1.176:6080/vnc_lite.html?autoconnect=true&password=123456
 
+Example:
+.../vnc.html?autoconnect=true&host=HOST&port=PORT&password=PASSWORD
 
 ## noVNC: HTML VNC Client Library and Application
 
