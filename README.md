@@ -1,3 +1,6 @@
+http://192.168.1.176:6080/vnc_lite.html?autoconnect=true&password=123456
+
+
 ## noVNC: HTML VNC Client Library and Application
 
 [![Build Status](https://travis-ci.org/novnc/noVNC.svg?branch=master)](https://travis-ci.org/novnc/noVNC)
